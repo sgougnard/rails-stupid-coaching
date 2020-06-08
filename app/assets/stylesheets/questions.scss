@@ -1,0 +1,23 @@
+.question {
+background-color:white;
+border-left:5px solid;
+border-left-color: grey;
+}
+
+.answer {
+background-color:rgb(255,254,225);
+border-left:5px solid;
+border-left-color: grey;
+
+
+}
+
+$gray: #F4F4F4;
+
+body {
+  background: $gray; // Using this variable
+}
+
+p {
+  padding: 16px;
+}
